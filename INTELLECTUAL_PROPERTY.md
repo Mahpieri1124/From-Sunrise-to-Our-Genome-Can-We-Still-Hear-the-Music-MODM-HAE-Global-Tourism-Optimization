@@ -1,253 +1,149 @@
-<!--
-Copyright © 2026 Mohammad Piran — All Rights Reserved.
-Research licence context: CC BY-NC-ND 4.0 for the repository documentation unless otherwise stated.
-This document is part of the Smart Evolutionary Tourism Ecosystem (SETE) research programme.
--->
+# INTELLECTUAL PROPERTY — SETE v1.2.1
 
-# Intellectual Property, Authorship and Provenance Statement
-## Smart Evolutionary Tourism Ecosystem (SETE) — Version 1.2.0
-
-**Author:** Mohammad Piran  
-**DOI:** 10.5281/zenodo.23043403  
-**Previous SETE Record:** 10.5281/zenodo.22876491  
+**Title:** From Sunrise to Our Genome — Can We Still Hear the Music — Smart Evolutionary Tourism Ecosystem (SETE): Metacognitive Challenge Triage, Responsible Continuity, and Evolution Before Perfection  
+**Version:** 1.2.1  
+**DOI:** 10.5281/zenodo.23068992  
+**Author:** Mohammad Piran, Electrical Engineer, Independent Interdisciplinary Researcher (Former PhD Candidate 2015)  
 **Year:** 2026  
 **License:** CC BY-NC-ND 4.0
 
----
+## 1. Purpose
 
-## 1. Purpose of This Statement
+This document records the intellectual-property and attribution position of Version 1.2.1 of the proposed **Smart Evolutionary Tourism Ecosystem (SETE)** research architecture.
 
-This document records the authorship, provenance, intellectual-property position and attribution requirements associated with the present expression of the **Smart Evolutionary Tourism Ecosystem (SETE)** research programme.
+The repository contains conceptual formulations, terminology, system relationships, research hypotheses, methodological principles, architectural diagrams expressed in text, and proposed research pathways.
 
-It is intended to make a clear distinction between:
+## 2. Authorship and Attribution
 
-1. the author's protectable written and graphical expression;
-2. the author's documented research architecture and terminology;
-3. underlying abstract ideas, concepts, methods, facts and mathematical principles;
-4. prior scientific literature and public-domain knowledge;
-5. future implementations that may require separate legal and technical treatment.
+Copyright © 2026 Mohammad Piran.
 
----
+The author should be identified as:
 
-## 2. Authorship
+> Mohammad Piran, Electrical Engineer, Independent Interdisciplinary Researcher (Former PhD Candidate 2015)
 
-The present repository materials are authored and curated by:
+Where this version is cited, use the version-specific DOI:
 
-**Mohammad Piran**  
-Electrical Engineer · Independent Interdisciplinary Researcher (Former PhD Candidate 2015)
+> https://doi.org/10.5281/zenodo.23068992
 
-Unless a specific file states otherwise, the written formulation, organisation, synthesis, diagrams, terminology and documentation contained in this repository are attributed to Mohammad Piran.
+## 3. Nature of the Intellectual Contribution
 
----
+The author does **not** claim exclusive ownership over general scientific fields or established methods such as:
 
-## 3. Core Research Expression
+- smart tourism;
+- sustainable tourism;
+- artificial intelligence;
+- machine learning;
+- GIS;
+- tourist segmentation;
+- recommender systems;
+- multi-objective optimization;
+- evolutionary algorithms;
+- adaptive systems;
+- carrying-capacity analysis;
+- community-based tourism;
+- nature-positive tourism;
+- metacognition;
+- human oversight of AI.
 
-The following architecture is part of the author's documented research expression in this version:
+The intellectual contribution claimed here concerns the author's **specific synthesis, terminology, architecture, relationships, methodological propositions, research questions, and proposed integration** of these areas within SETE.
 
-**Global Tourist Diversity → Tourist Preference Spectrum → Intelligent/Adaptive Clustering → Destination Capability Mapping → Tourist–Destination–Time Matching → Global Capacity Balancing → Multi-Objective Optimisation → Adaptive Feedback → AI-Assisted Decision Intelligence → Human Metacognitive Governance → HMC-GATE → Reassessment → Adaptation**
+In particular, Version 1.2.1 develops the proposed integration of:
 
-The architecture is presented as a research proposal and synthesis, not as a claim that each component was independently invented by the author.
+- Global Tourist Diversity;
+- Tourist Preference Spectrum;
+- Destination Capability Mapping;
+- Metacognitive Gap Detection;
+- HMC Challenge Triage;
+- Technical Challenge Non-Dominance;
+- Responsible Continuity;
+- Dual Risk Accounting;
+- LOOPTIMA detection;
+- Exit Before Optimization;
+- Evolution Before Perfection;
+- Humanity Matters Horizon evaluation;
+- progressive validation.
 
----
+These elements should not be interpreted as claims that every individual concept is unprecedented.
 
-## 4. What Is Being Asserted
+## 4. Novelty Position
 
-The author asserts authorship and provenance, to the extent legally protectable, over the **specific expression and documented synthesis** contained in the repository, including:
+The principal novelty claim is **architectural and integrative**, not component-level invention.
 
-- original prose;
-- original explanatory diagrams;
-- original arrangement of concepts;
-- terminology defined by the author;
-- research questions;
-- architecture descriptions;
-- versioned research framing;
-- evidence-state system;
-- progressive-validation workflow;
-- documented relationships among the component domains;
-- repository-level organisation and research-path documentation.
+The framework proposes that tourism intelligence can be organized as an evolutionary ecosystem whose ability to identify and address its own implementation obstacles becomes part of the system architecture.
 
----
+The proposed research question is therefore not merely:
 
-## 5. Important Legal Boundary
+> How can tourism be optimized?
 
-Copyright law generally protects the **expression** of an idea, rather than the underlying idea itself.
+but also:
 
-WIPO states that copyright protection extends to expressions and not, as such, to ideas, procedures, methods of operation or mathematical concepts. citeturn0search0turn0search18
+> How can a global tourism ecosystem progressively evolve despite technical, informational, infrastructural, organizational and methodological limitations, without allowing either technical complexity or metacognitive confidence to become an automatic decision rule?
 
-Therefore, this repository does **not** make an overbroad claim that copyright alone prevents others from independently researching, implementing, testing or discussing abstract tourism-system concepts.
+This proposition remains hypothesis-generating and requires empirical validation.
 
-The author's objective is instead to establish a durable and citable record of **authorship, chronology, terminology, architecture, synthesis and research provenance**.
+## 5. Conceptual Terminology
 
----
+The following terms are used as author-defined research terminology or proposed constructs in this project and should not automatically be interpreted as established scientific metrics:
 
-## 6. Global Scholarly Provenance Strategy
+- Smart Evolutionary Tourism Ecosystem (SETE);
+- Metacognitive Challenge Triage;
+- Responsible Continuity;
+- No Unjustified or Avoidable Delay;
+- Technical Challenge Non-Dominance;
+- LOOPTIMA;
+- Exit Before Optimization;
+- Evolution Before Perfection;
+- Humanity Matters Horizon (HMH) in the SETE application;
+- HMC Challenge Gate.
 
-The following mechanisms are intentionally combined:
+Where similar terminology exists elsewhere, the repository should be interpreted in relation to the cited literature rather than as an assertion of exclusive lexical ownership.
 
-### A. Persistent DOI
-Version 1.2.0 is associated with:
+## 6. Derivative and Adaptation Boundary
 
-**10.5281/zenodo.23043403**
+This work is released under **CC BY-NC-ND 4.0**.
 
-### B. Version chronology
-Earlier SETE work is preserved as:
+Accordingly, users may share the work with attribution for permitted purposes, but the license does not authorize distribution of modified/adapted versions of the licensed material.
 
-**10.5281/zenodo.22876491 — Version 1.0.0**
+Independent research inspired by the framework remains subject to normal academic attribution and should distinguish the researcher's own contribution from the SETE framework.
 
-### C. Public repository history
-GitHub and GitLab repositories provide additional chronological evidence through commits, releases and repository history.
+## 7. Academic Integrity
 
-### D. Explicit attribution
-Future scholarly discussion should distinguish between:
+No user of this material should:
 
-- established prior art;
-- derivative use;
-- independent parallel development;
-- direct adoption of SETE terminology/architecture;
-- further development of the SETE proposal.
+- present the entire SETE architecture as their own;
+- remove attribution or DOI information;
+- convert a hypothesis into a claimed empirical finding;
+- describe the framework as validated when it has not been validated;
+- attribute established literature to the author;
+- imply that the author endorses a specific implementation without evidence.
 
-### E. Change records
-Each major version should document what changed and why.
+## 8. Evidence Boundary
 
----
+AI-generated outputs, simulations, public data, visitor reports, community observations, telemetry, images, videos, and other information sources must not automatically be treated as truth.
 
-## 7. Innovation Claim — Carefully Defined
+Evidence should be evaluated for:
 
-The innovation claim is **architectural and integrative**, not a claim that tourism or its component technologies were invented here.
-
-The proposed contribution is the systematic integration of:
-
-- global tourist diversity;
-- dynamic preference representation;
-- adaptive clustering;
-- destination capability mapping;
-- tourist–destination–time matching;
-- cross-destination capacity balancing;
-- multi-objective optimisation;
-- adaptive feedback;
-- AI-assisted decision intelligence;
-- human metacognitive governance;
-- HMC-GATE;
-- progressive evidence validation;
-
-within a single **globally interconnected, dynamically evolving tourism coordination architecture**.
-
-This distinction is essential for responsible prior-art positioning.
-
----
-
-## 8. HMC-GATE as a Proposed Construct
-
-**HMC-GATE — Human Meta-Cognitive Gate** is proposed as a second-order human governance layer.
-
-Its proposed function is to evaluate not only system outputs but also:
-
-- objectives;
-- assumptions;
-- constraints;
-- values;
-- blind spots;
-- distributional consequences;
-- community legitimacy;
-- environmental limits;
+- provenance;
+- authenticity;
 - uncertainty;
-- unintended consequences.
+- completeness;
+- cross-source consistency;
+- potential manipulation;
+- independent verification where appropriate.
 
-HMC-GATE is therefore presented as a **proposed research construct**, not as an established scientific or legal category.
+## 9. Version Integrity
 
----
+Version 1.2.1 is identified by DOI:
 
-## 9. No False “First in the World” Claim
+**10.5281/zenodo.23068992**
 
-This repository intentionally does not state that SETE is “the first in the world”.
+Subsequent versions should receive their own version identity and should not silently replace the intellectual or epistemic status of this version.
 
-Such a statement would require a systematic and reproducible prior-art review across relevant databases, citation networks, patents where applicable, software repositories and multidisciplinary literature.
+## 10. Final IP Notice
 
-The current defensible position is:
+> **IP NOTICE — © 2026 Mohammad Piran**
+>
+> This repository contains original conceptual synthesis, terminology, architectural relationships, methodological propositions and research hypotheses developed within the author's interdisciplinary research programme.
+>
+> Established scientific knowledge remains the property and contribution of its respective authors and sources. The author's claim concerns the specific synthesis and proposed architecture presented here.
 
-> **SETE proposes a distinctive integrative architecture whose specific combination, global coordination scope, dynamic evolution mechanism and human-metacognitive governance layer are subjects for continued novelty investigation and empirical validation.**
-
----
-
-## 10. Third-Party Materials
-
-Third-party:
-
-- publications;
-- datasets;
-- trademarks;
-- logos;
-- photographs;
-- maps;
-- software;
-- code;
-- statistical data;
-- government documents;
-
-remain subject to their respective rights and licences.
-
-Their citation in this repository does not transfer ownership to the author.
-
----
-
-## 11. License Boundary
-
-The repository documentation is released under:
-
-**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).**
-
-This license governs copyright permissions for the licensed material. It does not itself grant patent rights or trademark rights.
-
-Canonical license:
-
-https://creativecommons.org/licenses/by-nc-nd/4.0/
-
----
-
-## 12. Attribution Request
-
-When referring to the documented SETE architecture, please cite the version used:
-
-> Piran, Mohammad (2026). *From Sunrise to Our Genome — Can We Still Hear the Music — Smart Evolutionary Tourism Ecosystem (SETE): Global Interconnectedness, Dynamic Evolution and Progressive Validation*, Version 1.2.0. Zenodo. https://doi.org/10.5281/zenodo.23043403
-
----
-
-## 13. No Retroactive Rewriting
-
-Earlier versions should remain historically identifiable.
-
-A later version may:
-
-- extend;
-- refine;
-- challenge;
-- narrow;
-- falsify;
-- replace;
-- reorganise;
-- operationalise
-
-earlier propositions, but should not silently rewrite the historical record.
-
-This principle is part of the research methodology itself.
-
----
-
-## 14. IP Evolution Principle
-
-The project treats intellectual-property provenance as a **dynamic evidentiary record**:
-
-**Concept → Written Expression → Public Disclosure → DOI → Repository History → Versioned Refinement → Independent Review → Empirical Testing → Replication**
-
-The strength of any future novelty or attribution claim should increase only as the documentary and empirical record becomes stronger.
-
----
-
-## 15. Disclaimer
-
-This document is a research-provenance and attribution statement, not legal advice. The scope and enforceability of intellectual-property rights depend on applicable law, jurisdiction, facts and the particular material at issue.
-
----
-
-**Copyright © 2026 Mohammad Piran — All Rights Reserved.**  
-**CC BY-NC-ND 4.0 applies to the licensed repository documentation as stated above.**
